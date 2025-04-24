@@ -1,4 +1,5 @@
 Hello! 👋
+
 🔭 I’m currently an intern in the technology field, gaining hands-on experience while contributing to real-world projects.
 
 🎓 I’m pursuing a Bachelor’s degree in Technology, continuously improving my skills.
